@@ -43,7 +43,7 @@
             <Toolbar disableGutters>
             {/* Logo en pantallas medianas y grandes */}
             <Box sx={{ display: { xs: 'none', md: 'flex' }, mr: 1, alignItems: 'right' }}>
-                <p>Alejandra Marin <br /> aleja@gmail.com <br /> 3125678954 </p>
+                <p>Alejandra Marin <br /> aleja@gmail.com <br />📞 +57 312 567 8954 </p>
             </Box>
 
             {/* Menú hamburguesa en dispositivos móviles */}
